@@ -1,0 +1,326 @@
+STATE,DISTRICT_NAME,DIST11,AC_NO,TOWN_POP,ELECTORS,POPULATION,REGION_TYPE,DIFF_POP_ELEC,map_type,NEW_REGION_TYPE
+Andhra Pradesh,West Godavari,546,173,"38,867.00","337,620.00","808,777",Urban,0.307,post,Urban
+Andhra Pradesh,West Godavari,546,174,"72,921.00","381,634.00","808,777",Urban,0.307,post,Urban
+Andhra Pradesh,West Godavari,546,175,"85,861.00","319,232.00","808,777",Urban,0.307,post,Urban
+Andhra Pradesh,West Godavari,546,176,0,"341,074.00","808,777",Urban,0.307,post,Urban
+Andhra Pradesh,West Godavari,546,177,0,"309,462.00","808,777",Urban,0.307,post,Urban
+Andhra Pradesh,West Godavari,546,178,"135,634.00","451,292.00","808,777",Urban,0.307,post,Urban
+Andhra Pradesh,West Godavari,546,179,"37,265.00","404,496.00","3,128,189",Rural,-0.307,post,Rural
+Andhra Pradesh,West Godavari,546,180,"66,381.00","438,450.00","808,777",Urban,0.307,post,Urban
+Andhra Pradesh,West Godavari,546,181,"100,873.00","386,050.00","3,128,189",Rural,-0.307,post,Urban
+Andhra Pradesh,West Godavari,546,182,0,"375,870.00","3,128,189",Rural,-0.307,post,Rural
+Andhra Pradesh,West Godavari,546,183,0,"395,812.00","3,128,189",Rural,-0.307,post,Rural
+Andhra Pradesh,West Godavari,546,184,"191,963.00","414,096.00","808,777",Urban,0.307,post,Urban
+Andhra Pradesh,West Godavari,546,185,0,"428,758.00","3,128,189",Rural,-0.307,post,Rural
+Andhra Pradesh,West Godavari,546,186,0,"381,622.00","3,128,189",Rural,-0.307,post,Rural
+Andhra Pradesh,West Godavari,546,187,0,"480,042.00","3,128,189",Rural,-0.307,post,Rural
+Andhra Pradesh,East Godavari,545,154,"49,546.00","395,388.00","3,840,324",Rural,-0.294,post,Rural
+Andhra Pradesh,East Godavari,545,155,0,"369,640.00","3,840,324",Rural,-0.294,post,Rural
+Andhra Pradesh,East Godavari,545,156,"49,639.00","426,304.00","1,313,972",Urban,0.294,post,Urban
+Andhra Pradesh,East Godavari,545,157,"282,650.00","443,400.00","1,313,972",Urban,0.294,post,Urban
+Andhra Pradesh,East Godavari,545,158,"97,849.00","389,878.00","1,313,972",Urban,0.294,post,Urban
+Andhra Pradesh,East Godavari,545,159,0,"406,578.00","3,840,324",Rural,-0.294,post,Rural
+Andhra Pradesh,East Godavari,545,160,0,"414,222.00","1,313,972",Urban,0.294,post,Urban
+Andhra Pradesh,East Godavari,545,161,0,"363,292.00","3,840,324",Rural,-0.294,post,Rural
+Andhra Pradesh,East Godavari,545,162,0,"416,594.00","3,840,324",Rural,-0.294,post,Rural
+Andhra Pradesh,East Godavari,545,163,"82,463.00","382,994.00","3,840,324",Rural,-0.294,post,Urban
+Andhra Pradesh,East Godavari,545,164,"15,155.00","348,166.00","1,313,972",Urban,0.294,post,Urban
+Andhra Pradesh,East Godavari,545,165,0,"366,200.00","1,313,972",Urban,0.294,post,Urban
+Andhra Pradesh,East Godavari,545,166,0,"446,592.00","1,313,972",Urban,0.294,post,Urban
+Andhra Pradesh,East Godavari,545,167,"87,432.00","391,892.00","1,313,972",Urban,0.294,post,Urban
+Andhra Pradesh,East Godavari,545,168,0,"374,370.00","3,840,324",Rural,-0.294,post,Rural
+Andhra Pradesh,East Godavari,545,169,"305,490.00","459,484.00","1,313,972",Urban,0.294,post,Urban
+Andhra Pradesh,East Godavari,545,170,0,"454,108.00","1,313,972",Urban,0.294,post,Urban
+Andhra Pradesh,East Godavari,545,171,0,"397,748.00","3,840,324",Rural,-0.294,post,Rural
+Andhra Pradesh,East Godavari,545,172,"9,437.00","301,676.00","3,840,324",Rural,-0.294,post,Rural
+Andhra Pradesh,Prakasam,549,221,0,"377,186.00","2,732,866",Rural,-0.23,post,Rural
+Andhra Pradesh,Prakasam,549,222,0,"398,024.00","2,732,866",Rural,-0.23,post,Rural
+Andhra Pradesh,Prakasam,549,223,0,"428,784.00","664,582",Urban,0.23,post,Rural
+Andhra Pradesh,Prakasam,549,224,"30,459.00","441,062.00","664,582",Urban,0.23,post,Rural
+Andhra Pradesh,Prakasam,549,225,"119,420.00","380,088.00","664,582",Urban,0.23,post,Urban
+Andhra Pradesh,Prakasam,549,226,0,"403,824.00","664,582",Urban,0.23,post,Urban
+Andhra Pradesh,Prakasam,549,227,"145,838.00","467,780.00","664,582",Urban,0.23,post,Urban
+Andhra Pradesh,Prakasam,549,228,"49,131.00","389,358.00","2,732,866",Rural,-0.23,post,Rural
+Andhra Pradesh,Prakasam,549,229,"16,375.00","429,728.00","2,732,866",Rural,-0.23,post,Rural
+Andhra Pradesh,Prakasam,549,230,"57,015.00","398,324.00","2,732,866",Rural,-0.23,post,Rural
+Andhra Pradesh,Prakasam,549,231,"46,258.00","453,850.00","2,732,866",Rural,-0.23,post,Rural
+Andhra Pradesh,Prakasam,549,232,"26,723.00","415,532.00","2,732,866",Rural,-0.23,post,Rural
+Andhra Pradesh,Visakhapatnam,544,139,"56,333.00","563,598.00","2,035,922",Urban,0.228,post,NA
+Andhra Pradesh,Visakhapatnam,544,140,"945,296.00","513,552.00","2,035,922",Urban,0.228,post,NA
+Andhra Pradesh,Visakhapatnam,544,141,0,"395,082.00","2,035,922",Urban,0.228,post,NA
+Andhra Pradesh,Visakhapatnam,544,142,0,"534,430.00","2,035,922",Urban,0.228,post,NA
+Andhra Pradesh,Visakhapatnam,544,143,"252,451.00","453,876.00","2,035,922",Urban,0.228,post,NA
+Andhra Pradesh,Visakhapatnam,544,144,0,"580,448.00","2,035,922",Urban,0.228,post,NA
+Andhra Pradesh,Visakhapatnam,544,145,"30,942.00","393,000.00","2,254,667",Rural,-0.228,post,NA
+Andhra Pradesh,Visakhapatnam,544,146,0,"347,714.00","2,254,667",Rural,-0.228,post,NA
+Andhra Pradesh,Visakhapatnam,544,147,0,"428,200.00","2,254,667",Rural,-0.228,post,NA
+Andhra Pradesh,Visakhapatnam,544,148,"15,204.00","427,592.00","2,254,667",Rural,-0.228,post,NA
+Andhra Pradesh,Visakhapatnam,544,149,"84,506.00","380,710.00","2,035,922",Urban,0.228,post,NA
+Andhra Pradesh,Visakhapatnam,544,150,0,"466,210.00","2,035,922",Urban,0.228,post,NA
+Andhra Pradesh,Visakhapatnam,544,151,"29,532.00","371,708.00","2,035,922",Urban,0.228,post,NA
+Andhra Pradesh,Visakhapatnam,544,152,"26,904.00","446,316.00","2,035,922",Urban,0.228,post,Rural
+Andhra Pradesh,Visakhapatnam,544,153,"32,127.00","397,290.00","2,254,667",Rural,-0.228,post,NA
+Bihar,Sheohar,205,22,"20,410.00","273,466.00","28,116",Urban,0.495,post,Rural
+Bihar,Sheohar,205,30,"17,374.00","235,205.00","628,130",Rural,-0.495,post,Urban
+Bihar,Sheikhpura,228,169,0,"226,546.00","527,340",Rural,-0.302,post,Rural
+Bihar,Gopalganj,217,99,0,"280,844.00","2,399,207",Rural,-0.258,post,Rural
+Bihar,Gopalganj,217,100,"33,911.00","255,874.00","162,805",Urban,0.258,post,Rural
+Bihar,Gopalganj,217,101,"75,303.00","297,509.00","162,805",Urban,0.258,post,Rural
+Bihar,Gopalganj,217,102,0,"297,225.00","2,399,207",Rural,-0.258,post,Rural
+Bihar,Gopalganj,217,103,0,"316,728.00","2,399,207",Rural,-0.258,post,Rural
+Bihar,Gopalganj,217,104,0,"272,172.00","2,399,207",Rural,-0.258,post,Urban
+Bihar,Saran,219,113,0,"281,642.00","3,598,660",Rural,-0.215,post,Rural
+Bihar,Saran,219,114,0,"282,118.00","3,598,660",Rural,-0.215,post,Rural
+Bihar,Saran,219,115,0,"300,038.00","3,598,660",Rural,-0.215,post,Rural
+Bihar,Saran,219,116,0,"277,058.00","3,598,660",Rural,-0.215,post,Rural
+Bihar,Saran,219,117,"24,078.00","244,753.00","353,202",Urban,0.215,post,Rural
+Bihar,Saran,219,118,"207,325.00","304,043.00","353,202",Urban,0.215,post,Urban
+Bihar,Saran,219,119,0,"281,928.00","353,202",Urban,0.215,post,Rural
+Bihar,Saran,219,120,0,"242,140.00","3,598,660",Rural,-0.215,post,Rural
+Bihar,Saran,219,121,0,"248,913.00","3,598,660",Rural,-0.215,post,Rural
+Bihar,Saran,219,122,"59,509.00","266,302.00","3,598,660",Rural,-0.215,post,Rural
+Bihar,Madhepura,213,70,0,"313,166.00","1,913,301",Rural,-0.212,post,Rural
+Bihar,Madhepura,213,71,"52,412.00","283,934.00","1,913,301",Rural,-0.212,post,Rural
+Bihar,Madhepura,213,72,0,"285,720.00","1,913,301",Rural,-0.212,post,Rural
+Bihar,Madhepura,213,73,"43,599.00","304,158.00","88,461",Urban,0.212,post,Urban
+Chhattisgarh,Dhamtari,412,56,0,"172,952.00","650,586",Rural,-0.487,post,Rural
+Chhattisgarh,Dhamtari,412,57,"11,671.00","171,361.00","149,195",Urban,0.487,post,Rural
+Chhattisgarh,Dhamtari,412,58,"80,725.00","186,160.00","149,195",Urban,0.487,post,Urban
+Chhattisgarh,Raipur,410,47,0,"178,110.00","2,580,583",Rural,-0.241,post,Rural
+Chhattisgarh,Raipur,410,48,"15,702.00","228,706.00","1,483,289",Urban,0.241,post,Urban
+Chhattisgarh,Raipur,410,49,0,"209,581.00","1,483,289",Urban,0.241,post,Urban
+Chhattisgarh,Raipur,410,50,0,"165,951.00","1,483,289",Urban,0.241,post,Urban
+Chhattisgarh,Raipur,410,51,"589,106.00","205,507.00","1,483,289",Urban,0.241,post,Urban
+Chhattisgarh,Raipur,410,52,0,"176,321.00","2,580,583",Rural,-0.241,post,Rural
+Chhattisgarh,Raipur,410,53,"16,343.00","172,782.00","2,580,583",Rural,-0.241,post,Rural
+Chhattisgarh,Janjgir - Champa,405,33,"31,244.00","183,279.00","1,394,646",Rural,-0.203,post,Rural
+Chhattisgarh,Janjgir - Champa,405,34,0,"180,357.00","1,394,646",Rural,-0.203,post,Rural
+Chhattisgarh,Janjgir - Champa,405,35,"19,864.00","178,494.00","225,061",Urban,0.203,post,Urban
+Chhattisgarh,Janjgir - Champa,405,36,0,"194,710.00","1,394,646",Rural,-0.203,post,Rural
+Chhattisgarh,Janjgir - Champa,405,37,0,"203,216.00","225,061",Urban,0.203,post,Rural
+Chhattisgarh,Janjgir - Champa,405,38,0,"176,018.00","1,394,646",Rural,-0.203,post,Rural
+Gujarat,Jamnagar,477,76,"47,308.00","194,894.00","1,189,054",Rural,-0.341,post,Rural
+Gujarat,Jamnagar,477,77,"17,255.00","186,173.00","971,065",Urban,0.341,post,Rural
+Gujarat,Jamnagar,477,78,"454,082.00","182,733.00","971,065",Urban,0.341,post,Urban
+Gujarat,Jamnagar,477,79,0,"184,141.00","971,065",Urban,0.341,post,Urban
+Gujarat,Jamnagar,477,80,"65,705.00","180,661.00","971,065",Urban,0.341,post,Rural
+Gujarat,Panch Mahals,484,124,0,"206,391.00","2,055,949",Rural,-0.278,post,NA
+Gujarat,Panch Mahals,484,125,0,"172,315.00","2,055,949",Rural,-0.278,post,NA
+Gujarat,Panch Mahals,484,128,"39,872.00","219,593.00","2,055,949",Rural,-0.278,post,NA
+Gujarat,Surat,492,155,0,"270,144.00","1,232,109",Rural,0.259,post,Urban
+Gujarat,Surat,492,156,0,"173,952.00","1,232,109",Rural,0.259,post,NA
+Gujarat,Surat,492,157,0,"209,349.00","1,232,109",Rural,0.259,post,NA
+Gujarat,Surat,492,158,"20,507.00","304,630.00","4,849,213",Urban,-0.259,post,NA
+Gujarat,Surat,492,159,"2,318,615.00","190,809.00","4,849,213",Urban,-0.259,post,NA
+Gujarat,Surat,492,168,0,"304,425.00","4,849,213",Urban,-0.259,post,NA
+Gujarat,Surat,492,169,"50,414.00","200,474.00","4,849,213",Urban,-0.259,post,NA
+Gujarat,Surat,492,170,0,"202,882.00","1,232,109",Rural,0.259,post,NA
+Gujarat,Ahmadabad,474,39,"64,981.00","241,217.00","1,151,178",Rural,0.249,post,NA
+Gujarat,Ahmadabad,474,40,"61,868.00","207,337.00","1,151,178",Rural,0.249,post,NA
+Gujarat,Ahmadabad,474,41,"37,350.00","286,157.00","6,063,047",Urban,-0.249,post,NA
+Gujarat,Ahmadabad,474,42,"21,146.00","273,428.00","6,063,047",Urban,-0.249,post,NA
+Gujarat,Ahmadabad,474,43,"36,178.00","230,317.00","6,063,047",Urban,-0.249,post,NA
+Gujarat,Ahmadabad,474,44,"3,772,420.00","223,386.00","6,063,047",Urban,-0.249,post,NA
+Gujarat,Ahmadabad,474,57,0,"242,147.00","6,063,047",Urban,-0.249,post,Rural
+Gujarat,Ahmadabad,474,58,"53,389.00","203,760.00","1,151,178",Rural,0.249,post,NA
+Gujarat,Ahmadabad,474,59,"29,374.00","214,334.00","1,151,178",Rural,0.249,post,NA
+Gujarat,Banas Kantha,469,7,0,"226,005.00","2,705,591",Rural,-0.221,post,Rural
+Gujarat,Banas Kantha,469,8,"22,271.00","189,236.00","2,705,591",Rural,-0.221,post,Rural
+Gujarat,Banas Kantha,469,9,"21,626.00","206,586.00","2,705,591",Rural,-0.221,post,Rural
+Gujarat,Banas Kantha,469,10,0,"194,468.00","2,705,591",Rural,-0.221,post,Rural
+Gujarat,Banas Kantha,469,11,"10,848.00","233,827.00","414,915",Urban,0.221,post,Rural
+Gujarat,Banas Kantha,469,12,"106,979.00","221,291.00","414,915",Urban,0.221,post,Urban
+Gujarat,Banas Kantha,469,13,"162,178.00","221,756.00","414,915",Urban,0.221,post,Urban
+Gujarat,Banas Kantha,469,14,0,"189,642.00","2,705,591",Rural,-0.221,post,Rural
+Gujarat,Banas Kantha,469,15,0,"228,272.00","2,705,591",Rural,-0.221,post,Rural
+Himachal Pradesh,Una,29,41,0,"71,244.00","476,260",Rural,-0.318,post,Rural
+Himachal Pradesh,Una,29,42,0,"69,189.00","476,260",Rural,-0.318,post,Rural
+Himachal Pradesh,Una,29,45,0,"72,596.00","476,260",Rural,-0.318,post,Rural
+Himachal Pradesh,Mandi,27,26,0,"60,706.00","937,140",Rural,-0.233,post,Rural
+Himachal Pradesh,Mandi,27,27,"23,594.00","67,908.00","937,140",Rural,-0.233,post,Rural
+Himachal Pradesh,Mandi,27,28,0,"70,584.00","937,140",Rural,-0.233,post,Rural
+Himachal Pradesh,Mandi,27,29,0,"67,952.00","937,140",Rural,-0.233,post,Rural
+Himachal Pradesh,Mandi,27,30,0,"72,708.00","937,140",Rural,-0.233,post,Rural
+Himachal Pradesh,Mandi,27,31,0,"84,738.00","937,140",Rural,-0.233,post,Rural
+Himachal Pradesh,Mandi,27,32,0,"68,626.00","937,140",Rural,-0.233,post,Rural
+Himachal Pradesh,Mandi,27,33,"26,467.00","64,881.00","62,637",Urban,0.233,post,Urban
+Himachal Pradesh,Mandi,27,34,0,"65,451.00","62,637",Urban,0.233,post,Rural
+Himachal Pradesh,Mandi,27,35,0,"76,750.00","62,637",Urban,0.233,post,Rural
+Jharkhand,Palamu,358,75,0,"240,584.00","1,713,866",Rural,-0.519,post,NA
+Jharkhand,Palamu,358,76,"139,038.00","307,237.00","226,003",Urban,0.519,post,Urban
+Jharkhand,Palamu,358,78,0,"240,087.00","226,003",Urban,0.519,post,Rural
+Jharkhand,Palamu,358,79,0,"248,498.00","1,713,866",Rural,-0.519,post,NA
+Jharkhand,Garhwa,346,80,0,"300,191.00","1,253,114",Rural,-0.256,post,NA
+Jharkhand,Garhwa,346,81,0,"310,943.00","1,253,114",Rural,-0.256,post,NA
+Karnataka,Udupi,569,118,"20,883.00","194,920.00","843,300",Rural,-0.377,post,NA
+Karnataka,Udupi,569,119,"78,530.00","181,949.00","334,061",Urban,0.377,post,Urban
+Karnataka,Udupi,569,120,"120,539.00","180,892.00","334,061",Urban,0.377,post,Urban
+Karnataka,Udupi,569,121,"5,900.00","155,382.00","334,061",Urban,0.377,post,Rural
+Karnataka,Udupi,569,122,"24,488.00","161,012.00","843,300",Rural,-0.377,post,NA
+Kerala,Thrissur,594,61,0,"173,746.00","1,024,794",Rural,0.379,post,Rural
+Kerala,Thrissur,594,62,"56,936.00","174,161.00","1,024,794",Rural,0.379,post,Rural
+Kerala,Thrissur,594,64,0,"189,976.00","1,024,794",Rural,0.379,post,Rural
+Kerala,Thrissur,594,65,0,"178,019.00","1,024,794",Rural,0.379,post,Rural
+Kerala,Thrissur,594,66,"16,974.00","176,875.00","1,024,794",Rural,0.379,post,Rural
+Kerala,Thrissur,594,68,0,"179,535.00","1,024,794",Rural,0.379,post,Urban
+Kerala,Thrissur,594,70,"40,929.00","174,216.00","1,024,794",Rural,0.379,post,Urban
+Kerala,Thrissur,594,71,"14,885.00","176,055.00","1,024,794",Rural,0.379,post,Rural
+Kerala,Thrissur,594,72,"48,030.00","172,679.00","1,024,794",Rural,0.379,post,Rural
+Kerala,Pathanamthitta,599,112,0,"175,669.00","1,065,799",Rural,-0.311,post,Rural
+Kerala,Pathanamthitta,599,114,0,"182,423.00","1,065,799",Rural,-0.311,post,Rural
+Kerala,Pathanamthitta,599,115,"28,217.00","194,044.00","1,065,799",Rural,-0.311,post,Rural
+Kerala,Kozhikode,591,20,"73,840.00","141,576.00","2,072,572",Urban,-0.301,post,Urban
+Kerala,Kozhikode,591,21,0,"162,389.00","1,013,721",Rural,0.301,post,Rural
+Kerala,Kozhikode,591,22,"44,641.00","179,451.00","1,013,721",Rural,0.301,post,Rural
+Kerala,Kozhikode,591,23,"67,240.00","166,654.00","1,013,721",Rural,0.301,post,Urban
+Kerala,Kozhikode,591,24,0,"159,699.00","1,013,721",Rural,0.301,post,Rural
+Kerala,Kozhikode,591,25,0,"185,134.00","1,013,721",Rural,0.301,post,Rural
+Kerala,Kozhikode,591,26,0,"162,835.00","1,013,721",Rural,0.301,post,Rural
+Kerala,Kozhikode,591,27,"425,581.00","150,415.00","2,072,572",Urban,-0.301,post,Urban
+Kerala,Kozhikode,591,28,0,"132,780.00","2,072,572",Urban,-0.301,post,Urban
+Kerala,Kozhikode,591,29,"93,970.00","164,045.00","2,072,572",Urban,-0.301,post,Urban
+Kerala,Kozhikode,591,30,"111,695.00","178,089.00","2,072,572",Urban,-0.301,post,Urban
+Kerala,Kozhikode,591,31,0,"142,384.00","1,013,721",Rural,0.301,post,Rural
+Kerala,Kozhikode,591,32,0,"145,763.00","1,013,721",Rural,0.301,post,Rural
+Kerala,Alappuzha,598,102,0,"174,130.00","979,643",Rural,0.214,post,Urban
+Kerala,Alappuzha,598,103,"43,971.00","190,806.00","979,643",Rural,0.214,post,Urban
+Kerala,Alappuzha,598,104,"249,230.00","173,942.00","1,148,146",Urban,-0.214,post,Urban
+Kerala,Alappuzha,598,105,0,"146,890.00","1,148,146",Urban,-0.214,post,Urban
+Kerala,Alappuzha,598,106,0,"150,213.00","979,643",Rural,0.214,post,Rural
+Kerala,Alappuzha,598,107,0,"171,834.00","979,643",Rural,0.214,post,Rural
+Kerala,Alappuzha,598,108,"93,906.00","182,036.00","1,148,146",Urban,-0.214,post,Urban
+Kerala,Alappuzha,598,109,0,"177,797.00","979,643",Rural,0.214,post,Rural
+Kerala,Alappuzha,598,110,"25,438.00","176,873.00","979,643",Rural,0.214,post,Urban
+Madhya Pradesh,Jhabua,464,193,"29,672.00","239,438.00","91,983",Urban,0.581,post,Urban
+Madhya Pradesh,Jhabua,464,194,"12,429.00","208,780.00","91,983",Urban,0.581,post,Rural
+Madhya Pradesh,Jhabua,464,195,"22,702.00","219,586.00","933,065",Rural,-0.581,post,Rural
+Madhya Pradesh,Harda,448,134,"18,697.00","159,100.00","451,101",Rural,-0.346,post,NA
+Madhya Pradesh,Harda,448,135,"77,208.00","198,649.00","119,364",Urban,0.346,post,Urban
+Madhya Pradesh,Anuppur,461,87,"45,486.00","161,978.00","205,241",Urban,0.258,post,Urban
+Madhya Pradesh,Guna,458,28,0,"182,255.00","928,844",Rural,-0.253,post,Rural
+Madhya Pradesh,Guna,458,30,"13,412.00","195,431.00","928,844",Rural,-0.253,post,Rural
+Madhya Pradesh,Mandla,454,105,0,"219,823.00","924,716",Rural,-0.218,post,Rural
+Madhya Pradesh,Mandla,454,106,0,"222,579.00","924,716",Rural,-0.218,post,Rural
+Madhya Pradesh,Burhanpur,467,179,"223,468.00","214,383.00","497,560",Rural,-0.208,post,NA
+Madhya Pradesh,Burhanpur,467,180,"17,872.00","263,259.00","260,287",Urban,0.208,post,Urban
+Madhya Pradesh,Betul,447,129,"20,890.00","195,590.00","1,266,211",Rural,-0.202,post,Rural
+Madhya Pradesh,Betul,447,132,0,"205,683.00","1,266,211",Rural,-0.202,post,Rural
+Madhya Pradesh,Betul,447,133,"15,579.00","209,953.00","1,266,211",Rural,-0.202,post,Rural
+Maharashtra,Bhandara,506,60,"46,933.00","282,319.00","233,831",Urban,0.483,post,Rural
+Maharashtra,Bhandara,506,61,"105,939.00","341,185.00","233,831",Urban,0.483,post,Urban
+Maharashtra,Bhandara,506,62,0,"296,188.00","966,503",Rural,-0.483,post,Rural
+Maharashtra,Kolhapur,530,271,0,"303,275.00","2,645,992",Rural,-0.283,post,Rural
+Maharashtra,Kolhapur,530,272,"14,472.00","308,307.00","2,645,992",Rural,-0.283,post,Rural
+Maharashtra,Kolhapur,530,273,"68,212.00","305,582.00","1,230,009",Urban,0.283,post,Urban
+Maharashtra,Kolhapur,530,274,"473,017.00","310,755.00","1,230,009",Urban,0.283,post,Urban
+Maharashtra,Kolhapur,530,275,0,"289,489.00","2,645,992",Rural,-0.283,post,Rural
+Maharashtra,Kolhapur,530,276,0,"284,785.00","1,230,009",Urban,0.283,post,Urban
+Maharashtra,Kolhapur,530,277,"21,474.00","269,543.00","2,645,992",Rural,-0.283,post,Rural
+Maharashtra,Kolhapur,530,278,"77,393.00","303,007.00","1,230,009",Urban,0.283,post,Urban
+Maharashtra,Kolhapur,530,279,"268,794.00","269,122.00","1,230,009",Urban,0.283,post,Urban
+Maharashtra,Kolhapur,530,280,"63,304.00","288,630.00","1,230,009",Urban,0.283,post,Urban
+Odisha,Gajapati,389,136,0,"387,516.00","507,151",Rural,-0.379,post,NA
+Odisha,Koraput,398,141,0,"310,232.00","1,153,478",Rural,-0.261,post,Rural
+Odisha,Koraput,398,142,"22,893.00","361,134.00","226,169",Urban,0.261,post,Rural
+Odisha,Koraput,398,143,"75,345.00","375,808.00","226,169",Urban,0.261,post,Urban
+Odisha,Koraput,398,144,"39,037.00","338,878.00","1,153,478",Rural,-0.261,post,Rural
+Odisha,Koraput,398,145,"58,001.00","346,260.00","1,153,478",Rural,-0.261,post,Rural
+Odisha,Balangir,393,66,0,"422,164.00","197,381",Urban,0.251,post,NA
+Odisha,Balangir,393,67,"18,425.00","505,476.00","1,451,616",Rural,-0.251,post,NA
+Odisha,Balangir,393,68,"83,535.00","426,914.00","197,381",Urban,0.251,post,NA
+Odisha,Balangir,393,69,"27,060.00","452,582.00","1,451,616",Rural,-0.251,post,NA
+Odisha,Balangir,393,70,"19,818.00","483,240.00","1,451,616",Rural,-0.251,post,NA
+Odisha,Anugul,384,59,"13,749.00","308,492.00","1,067,275",Rural,-0.247,post,Rural
+Odisha,Anugul,384,60,"52,223.00","319,740.00","206,546",Urban,0.247,post,Urban
+Odisha,Anugul,384,61,"37,068.00","399,322.00","206,546",Urban,0.247,post,Rural
+Odisha,Anugul,384,62,0,"372,620.00","1,067,275",Rural,-0.247,post,Rural
+Odisha,Anugul,384,63,"11,097.00","356,808.00","1,067,275",Rural,-0.247,post,Rural
+Punjab,Rupnagar,51,49,"53,149.00","171,869.00","177,807",Urban,0.4,post,Rural
+Punjab,Rupnagar,51,50,"47,036.00","149,952.00","177,807",Urban,0.4,post,Urban
+Punjab,Rupnagar,51,51,"21,308.00","165,992.00","506,820",Rural,-0.4,post,NA
+Punjab,Faridkot,45,88,0,"134,157.00","400,457",Rural,-0.312,post,NA
+Punjab,Muktsar,44,83,0,"140,066.00","649,705",Rural,-0.242,post,NA
+Punjab,Muktsar,44,84,"35,675.00","140,471.00","649,705",Rural,-0.242,post,NA
+Rajasthan,Sawai Madhopur,108,91,0,"189,956.00","1,069,084",Rural,-0.475,post,Rural
+Rajasthan,Sawai Madhopur,108,92,0,"200,315.00","266,467",Urban,0.475,post,Rural
+Rajasthan,Sawai Madhopur,108,93,"95,046.00","192,461.00","266,467",Urban,0.475,post,Urban
+Rajasthan,Rajsamand,123,173,0,"183,174.00","972,777",Rural,-0.357,post,NA
+Rajasthan,Rajsamand,123,174,"16,251.00","182,415.00","972,777",Rural,-0.357,post,NA
+Rajasthan,Rajsamand,123,175,"54,275.00","187,176.00","183,820",Urban,0.357,post,Urban
+Rajasthan,Rajsamand,123,176,"36,079.00","202,551.00","183,820",Urban,0.357,post,Rural
+Rajasthan,Karauli,107,83,"64,519.00","194,146.00","1,240,143",Rural,-0.263,post,NA
+Rajasthan,Karauli,107,81,,,,Urban,,post,Rural
+Rajasthan,Karauli,107,84,0,"213,158.00","1,240,143",Rural,-0.263,post,NA
+Rajasthan,Karauli,107,90,0,"200,424.00","1,240,143",Rural,-0.263,post,NA
+Tamil Nadu,Kanniyakumari,629,229,"46,913.00","237,852.00","330,572",Rural,0.662,post,NA
+Tamil Nadu,Kanniyakumari,629,231,"52,229.00","226,317.00","330,572",Rural,0.662,post,Urban
+Tamil Nadu,Kanniyakumari,629,232,"10,143.00","206,389.00","330,572",Rural,0.662,post,NA
+Tamil Nadu,Kanniyakumari,629,233,"18,743.00","207,632.00","330,572",Rural,0.662,post,Urban
+Tamil Nadu,Kanniyakumari,629,234,"19,816.00","213,660.00","330,572",Rural,0.662,post,Urban
+Tamil Nadu,Thoothukkudi,627,213,"50,051.00","175,367.00","873,374",Rural,-0.34,post,Rural
+Uttar Pradesh,Mirzapur,199,395,0,"312,044.00","2,149,403",Rural,-0.467,post,Rural
+Uttar Pradesh,Mirzapur,199,399,"22,635.00","318,993.00","2,149,403",Rural,-0.467,post,Rural
+Uttar Pradesh,Chitrakoot,171,236,"47,628.00","301,262.00","96,332",Urban,0.424,post,Urban
+Uttar Pradesh,Chitrakoot,171,237,"12,408.00","276,314.00","895,398",Rural,-0.424,post,Rural
+Uttar Pradesh,Varanasi,197,384,"7,876.00","319,792.00","2,079,790",Rural,-0.313,post,Rural
+Uttar Pradesh,Varanasi,197,385,"6,308.00","310,116.00","2,079,790",Rural,-0.313,post,Rural
+Uttar Pradesh,Varanasi,197,386,0,"292,562.00","1,597,051",Urban,0.313,post,Urban
+Uttar Pradesh,Varanasi,197,387,"18,803.00","316,973.00","1,597,051",Urban,0.313,post,Urban
+Uttar Pradesh,Varanasi,197,388,"1,073,148.00","346,724.00","1,597,051",Urban,0.313,post,Urban
+Uttar Pradesh,Varanasi,197,389,0,"272,845.00","1,597,051",Urban,0.313,post,Urban
+Uttar Pradesh,Varanasi,197,390,"38,939.00","349,472.00","1,597,051",Urban,0.313,post,Urban
+Uttar Pradesh,Varanasi,197,391,0,"286,384.00","1,597,051",Urban,0.313,post,Rural
+Uttar Pradesh,Mahoba,169,231,"53,388.00","313,564.00","690,577",Rural,-0.26,post,NA
+Uttar Pradesh,Gautam Buddha Nagar,141,55,0,"676,637.00","974,309",Urban,0.243,post,NA
+Uttar Pradesh,Gautam Buddha Nagar,141,61,"340,681.00","428,259.00","974,309",Urban,0.243,post,NA
+Uttar Pradesh,Gautam Buddha Nagar,141,62,"56,016.00","343,679.00","974,309",Urban,0.243,post,NA
+West Bengal,South Twenty Four Parganas,343,116,"163,639.00","200,265.00","2,087,773",Urban,0.23,post,Urban
+West Bengal,South Twenty Four Parganas,343,128,"42,943.00","182,806.00","6,074,188",Rural,-0.23,post,Rural
+West Bengal,South Twenty Four Parganas,343,129,0,"187,950.00","6,074,188",Rural,-0.23,post,Rural
+West Bengal,South Twenty Four Parganas,343,130,0,"199,486.00","6,074,188",Rural,-0.23,post,Rural
+West Bengal,South Twenty Four Parganas,343,131,0,"180,377.00","6,074,188",Rural,-0.23,post,Rural
+West Bengal,South Twenty Four Parganas,343,132,0,"203,625.00","6,074,188",Rural,-0.23,post,Rural
+West Bengal,South Twenty Four Parganas,343,133,0,"164,733.00","6,074,188",Rural,-0.23,post,Rural
+West Bengal,South Twenty Four Parganas,343,134,0,"207,140.00","6,074,188",Rural,-0.23,post,Rural
+West Bengal,South Twenty Four Parganas,343,135,0,"181,170.00","6,074,188",Rural,-0.23,post,Rural
+West Bengal,South Twenty Four Parganas,343,136,"22,988.00","174,871.00","6,074,188",Rural,-0.23,post,Rural
+West Bengal,South Twenty Four Parganas,343,137,"5,500.00","189,023.00","6,074,188",Rural,-0.23,post,Rural
+West Bengal,South Twenty Four Parganas,343,138,0,"177,902.00","6,074,188",Rural,-0.23,post,Rural
+West Bengal,South Twenty Four Parganas,343,139,0,"173,018.00","6,074,188",Rural,-0.23,post,Rural
+West Bengal,South Twenty Four Parganas,343,140,"44,173.00","181,548.00","2,087,773",Urban,0.23,post,Urban
+West Bengal,South Twenty Four Parganas,343,141,0,"177,554.00","6,074,188",Rural,-0.23,post,Rural
+West Bengal,South Twenty Four Parganas,343,142,"7,046.00","169,168.00","6,074,188",Rural,-0.23,post,Rural
+West Bengal,South Twenty Four Parganas,343,143,"36,473.00","192,505.00","6,074,188",Rural,-0.23,post,Rural
+West Bengal,South Twenty Four Parganas,343,144,"32,503.00","182,605.00","2,087,773",Urban,0.23,post,Urban
+West Bengal,South Twenty Four Parganas,343,145,0,"214,998.00","6,074,188",Rural,-0.23,post,Urban
+West Bengal,South Twenty Four Parganas,343,146,0,"210,599.00","2,087,773",Urban,0.23,post,Rural
+West Bengal,South Twenty Four Parganas,343,147,0,"202,819.00","2,087,773",Urban,0.23,post,Urban
+West Bengal,South Twenty Four Parganas,343,148,0,"187,371.00","6,074,188",Rural,-0.23,post,Rural
+West Bengal,South Twenty Four Parganas,343,149,0,"224,955.00","2,087,773",Urban,0.23,post,Urban
+West Bengal,South Twenty Four Parganas,343,150,0,"253,932.00","2,087,773",Urban,0.23,post,Urban
+West Bengal,South Twenty Four Parganas,343,151,"437,455.00","197,639.00","2,087,773",Urban,0.23,post,Urban
+West Bengal,South Twenty Four Parganas,343,152,0,"234,416.00","2,087,773",Urban,0.23,post,Urban
+West Bengal,South Twenty Four Parganas,343,153,0,"243,394.00","2,087,773",Urban,0.23,post,Urban
+West Bengal,South Twenty Four Parganas,343,154,0,"260,955.00","2,087,773",Urban,0.23,post,Urban
+West Bengal,South Twenty Four Parganas,343,155,"644,421.00","214,985.00","2,087,773",Urban,0.23,post,Urban
+West Bengal,South Twenty Four Parganas,343,156,"125,917.00","199,778.00","2,087,773",Urban,0.23,post,Urban
+West Bengal,South Twenty Four Parganas,343,157,"7,000.00","182,250.00","2,087,773",Urban,0.23,post,Urban
+West Bengal,Paschim Medinipur,344,219,0,"179,499.00","722,686",Urban,0.208,post,Rural
+West Bengal,Paschim Medinipur,344,220,0,"175,005.00","5,190,771",Rural,-0.208,post,Rural
+West Bengal,Paschim Medinipur,344,221,0,"177,748.00","5,190,771",Rural,-0.208,post,Rural
+West Bengal,Paschim Medinipur,344,222,"51,931.00","184,398.00","5,190,771",Rural,-0.208,post,Rural
+West Bengal,Paschim Medinipur,344,223,0,"182,643.00","5,190,771",Rural,-0.208,post,Rural
+West Bengal,Paschim Medinipur,344,224,"202,769.00","195,162.00","722,686",Urban,0.208,post,Urban
+West Bengal,Paschim Medinipur,344,225,0,"191,752.00","5,190,771",Rural,-0.208,post,Rural
+West Bengal,Paschim Medinipur,344,226,0,"206,439.00","5,190,771",Rural,-0.208,post,Rural
+West Bengal,Paschim Medinipur,344,227,0,"194,839.00","722,686",Urban,0.208,post,Rural
+West Bengal,Paschim Medinipur,344,228,0,"166,917.00","5,190,771",Rural,-0.208,post,Urban
+West Bengal,Paschim Medinipur,344,229,"12,001.00","184,265.00","722,686",Urban,0.208,post,Rural
+West Bengal,Paschim Medinipur,344,230,0,"242,517.00","722,686",Urban,0.208,post,Rural
+West Bengal,Paschim Medinipur,344,231,"50,745.00","224,907.00","722,686",Urban,0.208,post,Urban
+West Bengal,Paschim Medinipur,344,232,"48,553.00","216,439.00","5,190,771",Rural,-0.208,post,Rural
+West Bengal,Paschim Medinipur,344,233,"33,992.00","176,796.00","5,190,771",Rural,-0.208,post,Rural
+West Bengal,Paschim Medinipur,344,234,0,"208,500.00","5,190,771",Rural,-0.208,post,Rural
+West Bengal,Paschim Medinipur,344,235,"14,291.00","194,486.00","5,190,771",Rural,-0.208,post,Rural
+West Bengal,Paschim Medinipur,344,236,"150,306.00","215,287.00","5,190,771",Rural,-0.208,post,Rural
+West Bengal,Paschim Medinipur,344,237,0,"179,861.00","5,190,771",Rural,-0.208,post,Rural

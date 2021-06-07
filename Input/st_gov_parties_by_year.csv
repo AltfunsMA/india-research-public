@@ -1,0 +1,202 @@
+st_name,year,gov_partyname,gov_partyabbre,p_alliance
+Andhra Pradesh,1994,Telugu Desam Party,TDP,BJP_NDA
+Andhra Pradesh,1999,Bharatiya Janata Party,BJP,BJP_NDA
+Andhra Pradesh,1999,Telugu Desam Party,TDP,BJP_NDA
+Andhra Pradesh,2004,Indian National Congress,INC,INC_UPA
+Andhra Pradesh,2009,Indian National Congress,INC,INC_UPA
+Andhra Pradesh,2014,Telugu Desam Party,TDP,BJP_NDA
+Assam,1991,Indian National Congress,INC,INC_UPA
+Assam,1996,Asom Gana Parishad,AGP,BJP_NDA
+Assam,2001,Indian National Congress,INC,INC_UPA
+Assam,2006,Indian National Congress,INC,INC_UPA
+Assam,2011,Indian National Congress,INC,INC_UPA
+Assam,2016,Bharatiya Janata Party,BJP,BJP_NDA
+Bihar,1990,Rashtriya Janata Dal,RJD,INC_UPA
+Bihar,1995,Rashtriya Janata Dal,RJD,INC_UPA
+Bihar,2000,Rashtriya Janata Dal,RJD,INC_UPA
+Bihar,2005,Bharatiya Janata Party,BJP,BJP_NDA
+Bihar,2005,Janata Dal (United),JD(U),BJP_NDA
+Bihar,2010,Bharatiya Janata Party,BJP,BJP_NDA
+Bihar,2010,Rashtriya Janata Dal,RJD,BJP_NDA
+Bihar,2015,Janata Dal (United),JD(U),INC_UPA
+Bihar,2015,Indian National Congress,INC,INC_UPA
+Bihar,2015,Rashtriya Janata Dal,RJD,INC_UPA
+Chhattisgarh,2000,Indian National Congress,INC,INC_UPA
+Chhattisgarh,2003,Bharatiya Janata Party,BJP,BJP_NDA
+Chhattisgarh,2008,Bharatiya Janata Party,BJP,BJP_NDA
+Chhattisgarh,2013,Bharatiya Janata Party,BJP,BJP_NDA
+Chhattisgarh,2018,Indian National Congress,INC,INC_UPA
+Delhi,1993,Bharatiya Janata Party,BJP,BJP_NDA
+Delhi,1998,Indian National Congress,INC,INC_UPA
+Delhi,2003,Indian National Congress,INC,INC_UPA
+Delhi,2008,Indian National Congress,INC,INC_UPA
+Delhi,2013,Aam Aadmi Party,AAP,INC_UPA
+Delhi,2013,Indian National Congress,INC,INC_UPA
+Delhi,2015,Aam Aadmi Party,AAP,INC_UPA
+Goa,1994,Indian National Congress,INC,INC_UPA
+Goa,2007,Indian National Congress,INC,INC_UPA
+Goa,2007,Nationalist Congress Party,NCP,INC_UPA
+Goa,2012,Bharatiya Janata Party,BJP,BJP_NDA
+Goa,2012,Maharashtrawadi Gomantak,MAG,BJP_NDA
+Goa,2017,Bharatiya Janata Party,BJP,BJP_NDA
+Goa,2017,Maharashtrawadi Gomantak,MAG,BJP_NDA
+Gujarat,1990,Bharatiya Janata Party,BJP,BJP_NDA
+Gujarat,1990,Janata Dal,JD,BJP_NDA
+Gujarat,1995,Bharatiya Janata Party,BJP,BJP_NDA
+Gujarat,1998,Bharatiya Janata Party,BJP,BJP_NDA
+Gujarat,2002,Bharatiya Janata Party,BJP,BJP_NDA
+Gujarat,2007,Bharatiya Janata Party,BJP,BJP_NDA
+Gujarat,2012,Bharatiya Janata Party,BJP,BJP_NDA
+Gujarat,2017,Bharatiya Janata Party,BJP,BJP_NDA
+Haryana,1991,Indian National Congress,INC,INC_UPA
+Haryana,1996,Bharatiya Janata Party,BJP,BJP_NDA
+Haryana,1996,Haryana Vikas Party,HVP,BJP_NDA
+Haryana,2000,Bharatiya Janata Party,BJP,BJP_NDA
+Haryana,2000,Indian National Lok Dal,INLD,BJP_NDA
+Haryana,2005,Indian National Congress,INC,INC_UPA
+Haryana,2009,Haryana Janhit Congress (BL),HJCBL,INC_UPA
+Haryana,2009,Indian National Congress,INC,INC_UPA
+Haryana,2014,Bharatiya Janata Party,BJP,BJP_NDA
+Haryana,2014,Shiromani Akali Dal,SAD,BJP_NDA
+Himachal Pradesh,1993,Indian National Congress,INC,INC_UPA
+Himachal Pradesh,1998,Indian National Congress,INC,INC_UPA
+Himachal Pradesh,2003,Indian National Congress,INC,INC_UPA
+Himachal Pradesh,2007,Bharatiya Janata Party,BJP,BJP_NDA
+Himachal Pradesh,2012,Indian National Congress,INC,INC_UPA
+Himachal Pradesh,2017,Bharatiya Janata Party,BJP,BJP_NDA
+Jammu & Kashmir,1996,Jammu & Kashmir National Conference,JKNC,INC_UPA
+Jammu & Kashmir,2002,Indian National Congress,INC,INC_UPA
+Jammu & Kashmir,2002,Jammu & Kashmir National Panthers Party,JKNPP,INC_UPA
+Jammu & Kashmir,2002,Jammu & Kashmir People's Democratic Party,JKPDP,INC_UPA
+Jammu & Kashmir,2008,Indian National Congress,INC,INC_UPA
+Jammu & Kashmir,2008,Jammu & Kashmir National Conference,JKNC,INC_UPA
+Jammu & Kashmir,2014,Bharatiya Janata Party,BJP,BJP_NDA
+Jammu & Kashmir,2014,Jammu & Kashmir People's Democratic Party,JKPDP,BJP_NDA
+Jharkhand,2000,Bharatiya Janata Party,BJP,BJP_NDA
+Jharkhand,2000,Janata Dal (United),JD(U),BJP_NDA
+Jharkhand,2005,Bharatiya Janata Party,BJP,BJP_NDA
+Jharkhand,2005,Rashtriya Janata Dal,RJD,BJP_NDA
+Jharkhand,2005,Jharkhand Mukti Morcha,JMM,BJP_NDA
+Jharkhand,2009,Bharatiya Janata Party,BJP,BJP_NDA
+Jharkhand,2009,Janata Dal (United),JD(U),BJP_NDA
+Jharkhand,2009,Jharkhand Mukti Morcha,JMM,BJP_NDA
+Jharkhand,2014,Bharatiya Janata Party,BJP,BJP_NDA
+Karnataka,1994,Janata Dal (Secular),JD(S),THIRD_FRONT
+Karnataka,1999,Indian National Congress,INC,INC_UPA
+Karnataka,2004,Indian National Congress,INC,INC_UPA
+Karnataka,2004,Janata Dal (Secular),JD(S),INC_UPA
+Karnataka,2008,Bharatiya Janata Party,BJP,BJP_NDA
+Karnataka,2008,Independents,IND,BJP_NDA
+Karnataka,2013,Indian National Congress,INC,INC_UPA
+Karnataka,2018,Indian National Congress,INC,INC_UPA
+Karnataka,2018,Janata Dal (Secular),JD(S),INC_UPA
+Kerala,1991,Indian National Congress,INC,INC_UPA
+Kerala,1996,Communist Party of India (Marxist),CPI(M),THIRD_FRONT
+Kerala,2001,Indian National Congress,INC,INC_UPA
+Kerala,2001,Indian Union Muslim League,IUML,INC_UPA
+Kerala,2001,Kerala Congress (M),KC(M),INC_UPA
+Kerala,2001,Revolutionary Socialist Party (Kerala),RSP(K),INC_UPA
+Kerala,2006,Communist Party of India,CPI,THIRD_FRONT
+Kerala,2006,Communist Party of India (Marxist),CPI(M),THIRD_FRONT
+Kerala,2006,Janata Dal (Secular),JD(S),THIRD_FRONT
+Kerala,2006,Nationalist Congress Party,NCP,THIRD_FRONT
+Kerala,2011,Indian National Congress,INC,INC_UPA
+Kerala,2011,Indian Union Muslim League,IUML,INC_UPA
+Kerala,2011,Kerala Congress (M),KC(M),INC_UPA
+Kerala,2011,Revolutionary Socialist Party (Kerala),RSP(K),INC_UPA
+Kerala,2016,Communist Party of India,CPI,THIRD_FRONT
+Kerala,2016,Communist Party of India (Marxist),CPI(M),THIRD_FRONT
+Kerala,2016,Janata Dal (Secular),JD(S),THIRD_FRONT
+Kerala,2016,Nationalist Congress Party,NCP,THIRD_FRONT
+Madhya Pradesh,1990,Bharatiya Janata Party,BJP,BJP_NDA
+Madhya Pradesh,1993,Indian National Congress,INC,INC_UPA
+Madhya Pradesh,1998,Indian National Congress,INC,INC_UPA
+Madhya Pradesh,2003,Bharatiya Janata Party,BJP,BJP_NDA
+Madhya Pradesh,2008,Bharatiya Janata Party,BJP,BJP_NDA
+Madhya Pradesh,2013,Bharatiya Janata Party,BJP,BJP_NDA
+Madhya Pradesh,2018,Indian National Congress,INC,INC_UPA
+Madhya Pradesh,2018,Bahujan Samaj Party,BSP,INC_UPA
+Madhya Pradesh,2018,Samajwadi Party,SP,INC_UPA
+Maharashtra,1990,Bharatiya Janata Party,BJP,BJP_NDA
+Maharashtra,1995,Bharatiya Janata Party,BJP,BJP_NDA
+Maharashtra,1995,Shiv Sena,SHS,BJP_NDA
+Maharashtra,1999,Indian National Congress,INC,INC_UPA
+Maharashtra,1999,Nationalist Congress Party,NCP,INC_UPA
+Maharashtra,2004,Indian National Congress,INC,INC_UPA
+Maharashtra,2004,Nationalist Congress Party,NCP,INC_UPA
+Maharashtra,2009,Indian National Congress,INC,INC_UPA
+Maharashtra,2009,Nationalist Congress Party,NCP,INC_UPA
+Maharashtra,2014,Bharatiya Janata Party,BJP,BJP_NDA
+Maharashtra,2014,Shiv Sena,SHS,BJP_NDA
+Odisha,1990,Janata Dal,JD,BJP_NDA
+Odisha,1995,Indian National Congress,INC,INC_UPA
+Odisha,2000,Bharatiya Janata Party,BJP,BJP_NDA
+Odisha,2000,Biju Janata Dal,BJD,BJP_NDA
+Odisha,2004,Bharatiya Janata Party,BJP,BJP_NDA
+Odisha,2004,Biju Janata Dal,BJD,BJP_NDA
+Odisha,2009,Biju Janata Dal,BJD,THIRD_FRONT
+Odisha,2014,Biju Janata Dal,BJD,THIRD_FRONT
+Puducherry,2006,Dravida Munnetra Kazhagam,DMK,INC_UPA
+Puducherry,2006,Indian National Congress,INC,INC_UPA
+Puducherry,2011,All India Anna Dravida Munnetra Kazhagam,AIADMK,BJP_NDA
+Puducherry,2011,All India N.R. Congress,AINRC,BJP_NDA
+Puducherry,2016,Dravida Munnetra Kazhagam,DMK,INC_UPA
+Puducherry,2016,Indian National Congress,INC,INC_UPA
+Punjab,1992,Indian National Congress,INC,INC_UPA
+Punjab,1997,Shiromani Akali Dal,SAD,BJP_NDA
+Punjab,2002,Indian National Congress,INC,INC_UPA
+Punjab,2007,Bharatiya Janata Party,BJP,BJP_NDA
+Punjab,2007,Shiromani Akali Dal,SAD,BJP_NDA
+Punjab,2012,Bharatiya Janata Party,BJP,BJP_NDA
+Punjab,2012,Shiromani Akali Dal,SAD,BJP_NDA
+Punjab,2017,Indian National Congress,INC,INC_UPA
+Rajasthan,1990,Bharatiya Janata Party,BJP,BJP_NDA
+Rajasthan,1993,Bharatiya Janata Party,BJP,BJP_NDA
+Rajasthan,1998,Indian National Congress,INC,INC_UPA
+Rajasthan,2003,Bharatiya Janata Party,BJP,BJP_NDA
+Rajasthan,2008,Indian National Congress,INC,INC_UPA
+Rajasthan,2013,Bharatiya Janata Party,BJP,BJP_NDA
+Rajasthan,2018,Indian National Congress,INC,INC_UPA
+Tamil Nadu,1991,All India Anna Dravida Munnetra Kazhagam,AIADMK,BJP_NDA
+Tamil Nadu,1996,Dravida Munnetra Kazhagam,DMK,THIRD_FRONT
+Tamil Nadu,2001,All India Anna Dravida Munnetra Kazhagam,AIADMK,INC_UPA
+Tamil Nadu,2001,Indian National Congress,INC,INC_UPA
+Tamil Nadu,2006,Dravida Munnetra Kazhagam,DMK,THIRD_FRONT
+Tamil Nadu,2011,All India Anna Dravida Munnetra Kazhagam,AIADMK,BJP_NDA
+Tamil Nadu,2016,All India Anna Dravida Munnetra Kazhagam,AIADMK,BJP_NDA
+Telangana,2014,Telangana Rashtra Samithi,TRS,THIRD_FRONT
+Uttar Pradesh,1991,Bharatiya Janata Party,BJP,BJP_NDA
+Uttar Pradesh,1993,Bahujan Samaj Party,BSP,THIRD_FRONT
+Uttar Pradesh,1993,Samajwadi Party,SP,THIRD_FRONT
+Uttar Pradesh,1996,Bharatiya Janata Party,BJP,BJP_NDA
+Uttar Pradesh,2002,Samajwadi Party,SP,THIRD_FRONT
+Uttar Pradesh,2007,Bahujan Samaj Party,BSP,THIRD_FRONT
+Uttar Pradesh,2012,Samajwadi Party,SP,THIRD_FRONT
+Uttar Pradesh,2017,Bharatiya Janata Party,BJP,BJP_NDA
+Uttarakhand,2002,Indian National Congress,INC,INC_UPA
+Uttarakhand,2007,Bharatiya Janata Party,BJP,BJP_NDA
+Uttarakhand,2007,Independents,IND,BJP_NDA
+Uttarakhand,2007,Uttarakhand Kranti Dal,UKD(P),BJP_NDA
+Uttarakhand,2012,Bahujan Samaj Party,BSP,INC_UPA
+Uttarakhand,2012,Independents,IND,INC_UPA
+Uttarakhand,2012,Indian National Congress,INC,INC_UPA
+Uttarakhand,2012,Uttarakhand Kranti Dal,UKD(P),INC_UPA
+Uttarakhand,2017,Bharatiya Janata Party,BJP,BJP_NDA
+West Bengal,1991,All India Forward Bloc,AIFB,THIRD_FRONT
+West Bengal,1991,Communist Party of India,CPI,THIRD_FRONT
+West Bengal,1991,Communist Party of India (Marxist),CPI(M),THIRD_FRONT
+West Bengal,1991,Revolutionary Socialist Party,RSP,THIRD_FRONT
+West Bengal,1996,All India Forward Bloc,AIFB,THIRD_FRONT
+West Bengal,1996,Communist Party of India,CPI,THIRD_FRONT
+West Bengal,1996,Communist Party of India (Marxist),CPI(M),THIRD_FRONT
+West Bengal,1996,Revolutionary Socialist Party,RSP,THIRD_FRONT
+West Bengal,2001,All India Forward Bloc,AIFB,THIRD_FRONT
+West Bengal,2001,Communist Party of India,CPI,THIRD_FRONT
+West Bengal,2001,Communist Party of India (Marxist),CPI(M),THIRD_FRONT
+West Bengal,2001,Revolutionary Socialist Party,RSP,THIRD_FRONT
+West Bengal,2006,All India Forward Bloc,AIFB,THIRD_FRONT
+West Bengal,2006,Communist Party of India,CPI,THIRD_FRONT
+West Bengal,2006,Communist Party of India (Marxist),CPI(M),THIRD_FRONT
+West Bengal,2006,Revolutionary Socialist Party,RSP,THIRD_FRONT
+West Bengal,2011,All India Trinamool Congress,AITC,THIRD_FRONT
+West Bengal,2016,All India Trinamool Congress,AITC,THIRD_FRONT

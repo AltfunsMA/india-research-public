@@ -1,0 +1,326 @@
+map_type,STATE,DISTRICT_NAME,AC_NO,NEW_REGION_TYPE
+post,Andhra Pradesh,West Godavari,173,Urban
+post,Andhra Pradesh,West Godavari,174,Urban
+post,Andhra Pradesh,West Godavari,175,Urban
+post,Andhra Pradesh,West Godavari,176,Urban
+post,Andhra Pradesh,West Godavari,177,Urban
+post,Andhra Pradesh,West Godavari,178,Urban
+post,Andhra Pradesh,West Godavari,179,Rural
+post,Andhra Pradesh,West Godavari,180,Urban
+post,Andhra Pradesh,West Godavari,181,Urban
+post,Andhra Pradesh,West Godavari,182,Rural
+post,Andhra Pradesh,West Godavari,183,Rural
+post,Andhra Pradesh,West Godavari,184,Urban
+post,Andhra Pradesh,West Godavari,185,Rural
+post,Andhra Pradesh,West Godavari,186,Rural
+post,Andhra Pradesh,West Godavari,187,Rural
+post,Andhra Pradesh,East Godavari,154,Rural
+post,Andhra Pradesh,East Godavari,155,Rural
+post,Andhra Pradesh,East Godavari,156,Urban
+post,Andhra Pradesh,East Godavari,157,Urban
+post,Andhra Pradesh,East Godavari,158,Urban
+post,Andhra Pradesh,East Godavari,159,Rural
+post,Andhra Pradesh,East Godavari,160,Urban
+post,Andhra Pradesh,East Godavari,161,Rural
+post,Andhra Pradesh,East Godavari,162,Rural
+post,Andhra Pradesh,East Godavari,163,Urban
+post,Andhra Pradesh,East Godavari,164,Urban
+post,Andhra Pradesh,East Godavari,165,Urban
+post,Andhra Pradesh,East Godavari,166,Urban
+post,Andhra Pradesh,East Godavari,167,Urban
+post,Andhra Pradesh,East Godavari,168,Rural
+post,Andhra Pradesh,East Godavari,169,Urban
+post,Andhra Pradesh,East Godavari,170,Urban
+post,Andhra Pradesh,East Godavari,171,Rural
+post,Andhra Pradesh,East Godavari,172,Rural
+post,Andhra Pradesh,Prakasam,221,Rural
+post,Andhra Pradesh,Prakasam,222,Rural
+post,Andhra Pradesh,Prakasam,223,Rural
+post,Andhra Pradesh,Prakasam,224,Rural
+post,Andhra Pradesh,Prakasam,225,Urban
+post,Andhra Pradesh,Prakasam,226,Urban
+post,Andhra Pradesh,Prakasam,227,Urban
+post,Andhra Pradesh,Prakasam,228,Rural
+post,Andhra Pradesh,Prakasam,229,Rural
+post,Andhra Pradesh,Prakasam,230,Rural
+post,Andhra Pradesh,Prakasam,231,Rural
+post,Andhra Pradesh,Prakasam,232,Rural
+post,Andhra Pradesh,Visakhapatnam,139,NA
+post,Andhra Pradesh,Visakhapatnam,140,NA
+post,Andhra Pradesh,Visakhapatnam,141,NA
+post,Andhra Pradesh,Visakhapatnam,142,NA
+post,Andhra Pradesh,Visakhapatnam,143,NA
+post,Andhra Pradesh,Visakhapatnam,144,NA
+post,Andhra Pradesh,Visakhapatnam,145,NA
+post,Andhra Pradesh,Visakhapatnam,146,NA
+post,Andhra Pradesh,Visakhapatnam,147,NA
+post,Andhra Pradesh,Visakhapatnam,148,NA
+post,Andhra Pradesh,Visakhapatnam,149,NA
+post,Andhra Pradesh,Visakhapatnam,150,NA
+post,Andhra Pradesh,Visakhapatnam,151,NA
+post,Andhra Pradesh,Visakhapatnam,152,Rural
+post,Andhra Pradesh,Visakhapatnam,153,NA
+post,Bihar,Sheohar,22,Rural
+post,Bihar,Sheohar,30,Urban
+post,Bihar,Sheikhpura,169,Rural
+post,Bihar,Gopalganj,99,Rural
+post,Bihar,Gopalganj,100,Rural
+post,Bihar,Gopalganj,101,Rural
+post,Bihar,Gopalganj,102,Rural
+post,Bihar,Gopalganj,103,Rural
+post,Bihar,Gopalganj,104,Urban
+post,Bihar,Saran,113,Rural
+post,Bihar,Saran,114,Rural
+post,Bihar,Saran,115,Rural
+post,Bihar,Saran,116,Rural
+post,Bihar,Saran,117,Rural
+post,Bihar,Saran,118,Urban
+post,Bihar,Saran,119,Rural
+post,Bihar,Saran,120,Rural
+post,Bihar,Saran,121,Rural
+post,Bihar,Saran,122,Rural
+post,Bihar,Madhepura,70,Rural
+post,Bihar,Madhepura,71,Rural
+post,Bihar,Madhepura,72,Rural
+post,Bihar,Madhepura,73,Urban
+post,Chhattisgarh,Dhamtari,56,Rural
+post,Chhattisgarh,Dhamtari,57,Rural
+post,Chhattisgarh,Dhamtari,58,Urban
+post,Chhattisgarh,Raipur,47,Rural
+post,Chhattisgarh,Raipur,48,Urban
+post,Chhattisgarh,Raipur,49,Urban
+post,Chhattisgarh,Raipur,50,Urban
+post,Chhattisgarh,Raipur,51,Urban
+post,Chhattisgarh,Raipur,52,Rural
+post,Chhattisgarh,Raipur,53,Rural
+post,Chhattisgarh,Janjgir - Champa,33,Rural
+post,Chhattisgarh,Janjgir - Champa,34,Rural
+post,Chhattisgarh,Janjgir - Champa,35,Urban
+post,Chhattisgarh,Janjgir - Champa,36,Rural
+post,Chhattisgarh,Janjgir - Champa,37,Rural
+post,Chhattisgarh,Janjgir - Champa,38,Rural
+post,Gujarat,Jamnagar,76,Rural
+post,Gujarat,Jamnagar,77,Rural
+post,Gujarat,Jamnagar,78,Urban
+post,Gujarat,Jamnagar,79,Urban
+post,Gujarat,Jamnagar,80,Rural
+post,Gujarat,Panch Mahals,124,NA
+post,Gujarat,Panch Mahals,125,NA
+post,Gujarat,Panch Mahals,128,NA
+post,Gujarat,Surat,155,Urban
+post,Gujarat,Surat,156,NA
+post,Gujarat,Surat,157,NA
+post,Gujarat,Surat,158,NA
+post,Gujarat,Surat,159,NA
+post,Gujarat,Surat,168,NA
+post,Gujarat,Surat,169,NA
+post,Gujarat,Surat,170,NA
+post,Gujarat,Ahmadabad,39,NA
+post,Gujarat,Ahmadabad,40,NA
+post,Gujarat,Ahmadabad,41,NA
+post,Gujarat,Ahmadabad,42,NA
+post,Gujarat,Ahmadabad,43,NA
+post,Gujarat,Ahmadabad,44,NA
+post,Gujarat,Ahmadabad,57,Rural
+post,Gujarat,Ahmadabad,58,NA
+post,Gujarat,Ahmadabad,59,NA
+post,Gujarat,Banas Kantha,7,Rural
+post,Gujarat,Banas Kantha,8,Rural
+post,Gujarat,Banas Kantha,9,Rural
+post,Gujarat,Banas Kantha,10,Rural
+post,Gujarat,Banas Kantha,11,Rural
+post,Gujarat,Banas Kantha,12,Urban
+post,Gujarat,Banas Kantha,13,Urban
+post,Gujarat,Banas Kantha,14,Rural
+post,Gujarat,Banas Kantha,15,Rural
+post,Himachal Pradesh,Una,41,Rural
+post,Himachal Pradesh,Una,42,Rural
+post,Himachal Pradesh,Una,45,Rural
+post,Himachal Pradesh,Mandi,26,Rural
+post,Himachal Pradesh,Mandi,27,Rural
+post,Himachal Pradesh,Mandi,28,Rural
+post,Himachal Pradesh,Mandi,29,Rural
+post,Himachal Pradesh,Mandi,30,Rural
+post,Himachal Pradesh,Mandi,31,Rural
+post,Himachal Pradesh,Mandi,32,Rural
+post,Himachal Pradesh,Mandi,33,Urban
+post,Himachal Pradesh,Mandi,34,Rural
+post,Himachal Pradesh,Mandi,35,Rural
+post,Jharkhand,Palamu,75,NA
+post,Jharkhand,Palamu,76,Urban
+post,Jharkhand,Palamu,78,Rural
+post,Jharkhand,Palamu,79,NA
+post,Jharkhand,Garhwa,80,NA
+post,Jharkhand,Garhwa,81,NA
+post,Karnataka,Udupi,118,NA
+post,Karnataka,Udupi,119,Urban
+post,Karnataka,Udupi,120,Urban
+post,Karnataka,Udupi,121,Rural
+post,Karnataka,Udupi,122,NA
+post,Kerala,Thrissur,61,Rural
+post,Kerala,Thrissur,62,Rural
+post,Kerala,Thrissur,64,Rural
+post,Kerala,Thrissur,65,Rural
+post,Kerala,Thrissur,66,Rural
+post,Kerala,Thrissur,68,Urban
+post,Kerala,Thrissur,70,Urban
+post,Kerala,Thrissur,71,Rural
+post,Kerala,Thrissur,72,Rural
+post,Kerala,Pathanamthitta,112,Rural
+post,Kerala,Pathanamthitta,114,Rural
+post,Kerala,Pathanamthitta,115,Rural
+post,Kerala,Kozhikode,20,Urban
+post,Kerala,Kozhikode,21,Rural
+post,Kerala,Kozhikode,22,Rural
+post,Kerala,Kozhikode,23,Urban
+post,Kerala,Kozhikode,24,Rural
+post,Kerala,Kozhikode,25,Rural
+post,Kerala,Kozhikode,26,Rural
+post,Kerala,Kozhikode,27,Urban
+post,Kerala,Kozhikode,28,Urban
+post,Kerala,Kozhikode,29,Urban
+post,Kerala,Kozhikode,30,Urban
+post,Kerala,Kozhikode,31,Rural
+post,Kerala,Kozhikode,32,Rural
+post,Kerala,Alappuzha,102,Urban
+post,Kerala,Alappuzha,103,Urban
+post,Kerala,Alappuzha,104,Urban
+post,Kerala,Alappuzha,105,Urban
+post,Kerala,Alappuzha,106,Rural
+post,Kerala,Alappuzha,107,Rural
+post,Kerala,Alappuzha,108,Urban
+post,Kerala,Alappuzha,109,Rural
+post,Kerala,Alappuzha,110,Urban
+post,Madhya Pradesh,Jhabua,193,Urban
+post,Madhya Pradesh,Jhabua,194,Rural
+post,Madhya Pradesh,Jhabua,195,Rural
+post,Madhya Pradesh,Harda,134,NA
+post,Madhya Pradesh,Harda,135,Urban
+post,Madhya Pradesh,Anuppur,87,Urban
+post,Madhya Pradesh,Guna,28,Rural
+post,Madhya Pradesh,Guna,30,Rural
+post,Madhya Pradesh,Mandla,105,Rural
+post,Madhya Pradesh,Mandla,106,Rural
+post,Madhya Pradesh,Burhanpur,179,NA
+post,Madhya Pradesh,Burhanpur,180,Urban
+post,Madhya Pradesh,Betul,129,Rural
+post,Madhya Pradesh,Betul,132,Rural
+post,Madhya Pradesh,Betul,133,Rural
+post,Maharashtra,Bhandara,60,Rural
+post,Maharashtra,Bhandara,61,Urban
+post,Maharashtra,Bhandara,62,Rural
+post,Maharashtra,Kolhapur,271,Rural
+post,Maharashtra,Kolhapur,272,Rural
+post,Maharashtra,Kolhapur,273,Urban
+post,Maharashtra,Kolhapur,274,Urban
+post,Maharashtra,Kolhapur,275,Rural
+post,Maharashtra,Kolhapur,276,Urban
+post,Maharashtra,Kolhapur,277,Rural
+post,Maharashtra,Kolhapur,278,Urban
+post,Maharashtra,Kolhapur,279,Urban
+post,Maharashtra,Kolhapur,280,Urban
+post,Odisha,Gajapati,136,NA
+post,Odisha,Koraput,141,Rural
+post,Odisha,Koraput,142,Rural
+post,Odisha,Koraput,143,Urban
+post,Odisha,Koraput,144,Rural
+post,Odisha,Koraput,145,Rural
+post,Odisha,Balangir,66,NA
+post,Odisha,Balangir,67,NA
+post,Odisha,Balangir,68,NA
+post,Odisha,Balangir,69,NA
+post,Odisha,Balangir,70,NA
+post,Odisha,Anugul,59,Rural
+post,Odisha,Anugul,60,Urban
+post,Odisha,Anugul,61,Rural
+post,Odisha,Anugul,62,Rural
+post,Odisha,Anugul,63,Rural
+post,Punjab,Rupnagar,49,Rural
+post,Punjab,Rupnagar,50,Urban
+post,Punjab,Rupnagar,51,NA
+post,Punjab,Faridkot,88,NA
+post,Punjab,Muktsar,83,NA
+post,Punjab,Muktsar,84,NA
+post,Rajasthan,Sawai Madhopur,91,Rural
+post,Rajasthan,Sawai Madhopur,92,Rural
+post,Rajasthan,Sawai Madhopur,93,Urban
+post,Rajasthan,Rajsamand,173,NA
+post,Rajasthan,Rajsamand,174,NA
+post,Rajasthan,Rajsamand,175,Urban
+post,Rajasthan,Rajsamand,176,Rural
+post,Rajasthan,Karauli,83,NA
+post,Rajasthan,Karauli,81,Rural
+post,Rajasthan,Karauli,84,NA
+post,Rajasthan,Karauli,90,NA
+post,Tamil Nadu,Kanniyakumari,229,NA
+post,Tamil Nadu,Kanniyakumari,231,Urban
+post,Tamil Nadu,Kanniyakumari,232,NA
+post,Tamil Nadu,Kanniyakumari,233,Urban
+post,Tamil Nadu,Kanniyakumari,234,Urban
+post,Tamil Nadu,Thoothukkudi,213,Rural
+post,Uttar Pradesh,Mirzapur,395,Rural
+post,Uttar Pradesh,Mirzapur,399,Rural
+post,Uttar Pradesh,Chitrakoot,236,Urban
+post,Uttar Pradesh,Chitrakoot,237,Rural
+post,Uttar Pradesh,Varanasi,384,Rural
+post,Uttar Pradesh,Varanasi,385,Rural
+post,Uttar Pradesh,Varanasi,386,Urban
+post,Uttar Pradesh,Varanasi,387,Urban
+post,Uttar Pradesh,Varanasi,388,Urban
+post,Uttar Pradesh,Varanasi,389,Urban
+post,Uttar Pradesh,Varanasi,390,Urban
+post,Uttar Pradesh,Varanasi,391,Rural
+post,Uttar Pradesh,Mahoba,231,NA
+post,Uttar Pradesh,Gautam Buddha Nagar,55,NA
+post,Uttar Pradesh,Gautam Buddha Nagar,61,NA
+post,Uttar Pradesh,Gautam Buddha Nagar,62,Rural
+post,West Bengal,South Twenty Four Parganas,116,Urban
+post,West Bengal,South Twenty Four Parganas,128,Rural
+post,West Bengal,South Twenty Four Parganas,129,Rural
+post,West Bengal,South Twenty Four Parganas,130,Rural
+post,West Bengal,South Twenty Four Parganas,131,Rural
+post,West Bengal,South Twenty Four Parganas,132,Rural
+post,West Bengal,South Twenty Four Parganas,133,Rural
+post,West Bengal,South Twenty Four Parganas,134,Rural
+post,West Bengal,South Twenty Four Parganas,135,Rural
+post,West Bengal,South Twenty Four Parganas,136,Rural
+post,West Bengal,South Twenty Four Parganas,137,Rural
+post,West Bengal,South Twenty Four Parganas,138,Rural
+post,West Bengal,South Twenty Four Parganas,139,Rural
+post,West Bengal,South Twenty Four Parganas,140,Urban
+post,West Bengal,South Twenty Four Parganas,141,Rural
+post,West Bengal,South Twenty Four Parganas,142,Rural
+post,West Bengal,South Twenty Four Parganas,143,Rural
+post,West Bengal,South Twenty Four Parganas,144,Urban
+post,West Bengal,South Twenty Four Parganas,145,Urban
+post,West Bengal,South Twenty Four Parganas,146,Rural
+post,West Bengal,South Twenty Four Parganas,147,Urban
+post,West Bengal,South Twenty Four Parganas,148,Rural
+post,West Bengal,South Twenty Four Parganas,149,Urban
+post,West Bengal,South Twenty Four Parganas,150,Urban
+post,West Bengal,South Twenty Four Parganas,151,Urban
+post,West Bengal,South Twenty Four Parganas,152,Urban
+post,West Bengal,South Twenty Four Parganas,153,Urban
+post,West Bengal,South Twenty Four Parganas,154,Urban
+post,West Bengal,South Twenty Four Parganas,155,Urban
+post,West Bengal,South Twenty Four Parganas,156,Urban
+post,West Bengal,South Twenty Four Parganas,157,Urban
+post,West Bengal,Paschim Medinipur,219,Rural
+post,West Bengal,Paschim Medinipur,220,Rural
+post,West Bengal,Paschim Medinipur,221,Rural
+post,West Bengal,Paschim Medinipur,222,Rural
+post,West Bengal,Paschim Medinipur,223,Rural
+post,West Bengal,Paschim Medinipur,224,Urban
+post,West Bengal,Paschim Medinipur,225,Rural
+post,West Bengal,Paschim Medinipur,226,Rural
+post,West Bengal,Paschim Medinipur,227,Rural
+post,West Bengal,Paschim Medinipur,228,Urban
+post,West Bengal,Paschim Medinipur,229,Rural
+post,West Bengal,Paschim Medinipur,230,Rural
+post,West Bengal,Paschim Medinipur,231,Urban
+post,West Bengal,Paschim Medinipur,232,Rural
+post,West Bengal,Paschim Medinipur,233,Rural
+post,West Bengal,Paschim Medinipur,234,Rural
+post,West Bengal,Paschim Medinipur,235,Rural
+post,West Bengal,Paschim Medinipur,236,Rural
+post,West Bengal,Paschim Medinipur,237,Rural
