@@ -14,6 +14,7 @@
 # notably Consumer Pyramids (CP)
 
 library(cptools) 
+library(tidyverse)
 library(sf)
 
 input_fp <- "Input_data/"
